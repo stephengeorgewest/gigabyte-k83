@@ -1372,7 +1372,7 @@
   (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 00000000-0000-0000-0000-000061230631) (name "No Parts") (hatch full 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads not_allowed ) (copperpour allowed) (footprints not_allowed))
+    (keepout (tracks allowed) (vias allowed) (pads not_allowed) (copperpour allowed) (footprints not_allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
